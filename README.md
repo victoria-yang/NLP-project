@@ -22,6 +22,8 @@ install.packages("topicmodels")
 install.packages("stringr")
 ```
 
+## Datasets Info
+The documents we will be using will be student notes that the class _Anonymity_ made last semester.
 
 ## Procedure
 * Import the documents from folder *calss-notes*
