@@ -23,7 +23,7 @@ install.packages("stringr")
 ```
 
 ## Datasets Info
-The documents we will be using will be student notes that the class _Anonymity_ made last semester.
+The documents we will be using will be student notes that a TC course made last semester.
 
 ## Procedure
 * Import the documents from folder *calss-notes*
