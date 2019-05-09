@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-<img width = "300" src="https://github.com/victoria-yang/NLP-project/blob/master/word_cloud.png">
+<img width = "300" src="https://github.com/victoria-yang/natural-language-processing/blob/master/word_cloud.png">
 
 
 ### Description
@@ -24,7 +24,14 @@ install.packages("stringr")
 
 
 ## Procedure
-
+* Import the documents from folder *calss-notes*
+* Create a list of all the files by week
+* Data cleaning and wrangling
+* Find the most common words by using tm package
+* Generate a Word Cloud
+* Sentiment Analysis
+* LDA Topic Modelling
+* Output sentiment level as well as important topic for each week
 
 
 
@@ -37,3 +44,7 @@ install.packages("stringr")
 ## Author
 [Chieh-An (Victoria) Yang](https://www.linkedin.com/in/victoria-chieh-an-yang/) - Learning Analytics MS student at Teachers College, Columbia University
 
+
+## Acknowledgments
+**Charles Lang** - Visiting Assistant Professor at Teachers College, Columbia University
+* This project is an assignment for HUDK 4051: Learning Analytics: Process and Theory, an educational data mining course taught by Dr.Lang in Teachers College. 
