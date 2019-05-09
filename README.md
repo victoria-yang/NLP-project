@@ -1,6 +1,6 @@
 # Natural Language Processing
 
-<img width = "300" src="https://github.com/victoria-yang/natural-language-processing/blob/master/word_cloud.png">
+<img width = "300" src="https://github.com/victoria-yang/NLP-project/blob/master/word_cloud.png">
 
 
 ### Description
