@@ -37,7 +37,3 @@ install.packages("stringr")
 ## Author
 [Chieh-An (Victoria) Yang](https://www.linkedin.com/in/victoria-chieh-an-yang/) - Learning Analytics MS student at Teachers College, Columbia University
 
-
-## Acknowledgments
-**Charles Lang** - Visiting Assistant Professor at Teachers College, Columbia University
-* This project is an assignment for HUDK 4051: Learning Analytics: Process and Theory, an educational data mining course taught by Dr.Lang in Teachers College. 
